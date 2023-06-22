@@ -2,5 +2,5 @@ local Part = script.Parent
 
 local Part = Instance.new("Part")
 Part.Parent = game.workspace
-Part.Anchored = true <-- You can do more with Properities and you can add more lines.
+Part.Anchored = true -- <-- You can do more with Properities and you can add more lines.
 Part.CastShadow = false
